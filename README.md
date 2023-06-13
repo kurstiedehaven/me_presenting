@@ -10,7 +10,7 @@ Instructor helped with framework code as well as examples from codes in our UNC 
 ## License
 Refer to original LICENSE in repo
 ## Link to Deployed Application
-https://kurstiedehaven.github.io/me_presenting/
+https://kurstiedehaven.github.io/me_presenting_me/
 ## Photo
 ![Screenshot 2023-06-13 at 12 06 17 AM](https://github.com/kurstiedehaven/me_presenting/assets/134163209/0b347c9e-ba33-4a18-b27a-0e61d57339a5)
 
