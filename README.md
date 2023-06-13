@@ -12,6 +12,7 @@ Refer to original LICENSE in repo
 ## Link to Deployed Application
 
 ## Photo
+![Screenshot 2023-06-13 at 12 06 17 AM](https://github.com/kurstiedehaven/me_presenting/assets/134163209/0b347c9e-ba33-4a18-b27a-0e61d57339a5)
 
 
 
